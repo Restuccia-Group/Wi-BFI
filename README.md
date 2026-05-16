@@ -7,7 +7,7 @@ This is the implementation of the paper [Wi-BFI: Extracting the IEEE 802.11 Beam
 <br/>
 
 <p align="center">
-<img src="Images/Wi-BFI.png" width="500" height="500"
+<img src="Images/Wi-BFI.png" width="600" height="600"
      alt="Markdown Monster icon"
      style="float: center;" />
 </p>
