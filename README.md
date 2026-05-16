@@ -34,7 +34,6 @@ series = {WiNTECH '23}
 
 ```
 <br/>
-<br/>
 
 First, clone the repository with ``` git@github.com:kfoysalhaque/Wi-BFI.git ``` and move into the directory with ``` cd  Wi-BFI ```
 
@@ -47,7 +46,7 @@ sudo apt-get install tshark wireshark aircrack-ng
 
 ```
 <br/>
-<br/>
+
 
 ## Wi-BFI Usage
 
